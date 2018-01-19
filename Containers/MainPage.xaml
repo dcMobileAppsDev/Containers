@@ -9,5 +9,11 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Rectangle Fill="Blue" Width="100" Height="50" />
+            <Rectangle Fill="Red" Width="100" Height="50" />
+            <Rectangle Fill="Green" Width="100" Height="50" />
+            <Rectangle Fill="Yellow" Width="100" Height="50" />
+        </StackPanel>
     </Grid>
 </Page>
